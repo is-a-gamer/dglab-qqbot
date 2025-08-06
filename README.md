@@ -2,6 +2,8 @@
 
 ## 主要功能
 
+源仓库地址 https://github.com/Blathroat/DGLAB-qqbot
+
 使用 qqbot 在qq群中用命令连接 DG-LAB app，修改强度及波形，实现多对一的DGLAB终端控制
 
 ---
@@ -65,3 +67,5 @@
 ### 开源协议
 
 本代码遵循 Apache-2.0 license 协议，传播时需包含本仓库链接，记得点个star～(∠・ω< )⌒★
+
+源仓库地址 https://github.com/Blathroat/DGLAB-qqbot
